@@ -1,7 +1,5 @@
 # DWWM-Cours
-## Cours de Git
 
-- ceci est une liste
-- un autre élément de liste
+## Git c'est beau
 
-
+J'ai du glissé dans la piscine
